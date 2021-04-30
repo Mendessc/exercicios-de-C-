@@ -1,0 +1,16 @@
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ExercicioDesafio.exe
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ExercicioDesafio.deps.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ExercicioDesafio.runtimeconfig.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ExercicioDesafio.runtimeconfig.dev.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ExercicioDesafio.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ref\ExercicioDesafio.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\bin\Debug\net5.0\ExercicioDesafio.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.csprojAssemblyReference.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.AssemblyInfoInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.AssemblyInfo.cs
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.csproj.CoreCompileInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ref\ExercicioDesafio.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafio\obj\Debug\net5.0\ExercicioDesafio.genruntimeconfig.cache

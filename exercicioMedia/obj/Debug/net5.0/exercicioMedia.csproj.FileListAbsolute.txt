@@ -1,0 +1,16 @@
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\exercicioMedia.exe
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\exercicioMedia.deps.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\exercicioMedia.runtimeconfig.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\exercicioMedia.runtimeconfig.dev.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\exercicioMedia.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\ref\exercicioMedia.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\bin\Debug\net5.0\exercicioMedia.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.csprojAssemblyReference.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.AssemblyInfoInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.AssemblyInfo.cs
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.csproj.CoreCompileInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\ref\exercicioMedia.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\exercicioMedia\obj\Debug\net5.0\exercicioMedia.genruntimeconfig.cache
