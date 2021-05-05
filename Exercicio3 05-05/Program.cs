@@ -7,11 +7,16 @@ namespace Exercicio3_05_05
         static void Main(string[] args)
         {
             bool check = false;
+            string nome = "";
+            int idade = 0;
+            int salario = 0;
+            string estadoCivil;
+            string letra;
 
             while (check == false)
             {
             Console.WriteLine("Insira seu nome");
-            string nome = Console.ReadLine();
+            nome = Console.ReadLine();
             
             if (nome == "")
             {
@@ -27,7 +32,7 @@ namespace Exercicio3_05_05
         while (check == true)
         {
             Console.WriteLine("Insira sua idade");
-            int idade = int.Parse(Console.ReadLine());
+            idade = int.Parse(Console.ReadLine());
 
             if (idade >= 0 && idade <= 150)
             {
@@ -44,7 +49,7 @@ namespace Exercicio3_05_05
         while (check == false)
         {
             Console.WriteLine("Insira seu salário");
-            float salario = float.Parse(Console.ReadLine());
+            salario = int.Parse(Console.ReadLine());
 
             if (salario <= 0)
             {
@@ -60,8 +65,8 @@ namespace Exercicio3_05_05
         while (check == true)
         {
             Console.WriteLine("Insira seu estado civil");
-            string estadoCivil = Console.ReadLine();
-            string letra = estadoCivil.Substring(0, 1) .ToLower();
+            estadoCivil = Console.ReadLine();
+            letra = estadoCivil.Substring(0, 1) .ToLower();
 
             if (letra == "s")
             {
@@ -88,9 +93,11 @@ namespace Exercicio3_05_05
             {
                 Console.WriteLine("Estado civil Inválido!!");
             }
-        }
 
-                
-            }
+            Console.WriteLine("As informações cadastradas foram: \n");
+            Console.WriteLine("Nome: " + nome + "\n" + "Idade: " + idade + "\n" + "Salário: R$" + salario + "\n" + "Estado Civil: " + estadoCivil); 
+        }
+        
+        }
     }
 }
