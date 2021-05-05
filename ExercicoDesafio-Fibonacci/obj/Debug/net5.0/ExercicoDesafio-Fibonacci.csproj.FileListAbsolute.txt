@@ -1,0 +1,16 @@
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.csprojAssemblyReference.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.AssemblyInfo.cs
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ExercicoDesafio-Fibonacci.exe
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ExercicoDesafio-Fibonacci.deps.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ExercicoDesafio-Fibonacci.runtimeconfig.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ExercicoDesafio-Fibonacci.runtimeconfig.dev.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ExercicoDesafio-Fibonacci.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ref\ExercicoDesafio-Fibonacci.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\bin\Debug\net5.0\ExercicoDesafio-Fibonacci.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ref\ExercicoDesafio-Fibonacci.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicoDesafio-Fibonacci\obj\Debug\net5.0\ExercicoDesafio-Fibonacci.genruntimeconfig.cache
