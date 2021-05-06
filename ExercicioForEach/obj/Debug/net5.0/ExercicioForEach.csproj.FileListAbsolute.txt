@@ -1,0 +1,16 @@
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ExercicioForEach.exe
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ExercicioForEach.deps.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ExercicioForEach.runtimeconfig.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ExercicioForEach.runtimeconfig.dev.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ExercicioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ref\ExercicioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\bin\Debug\net5.0\ExercicioForEach.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.csprojAssemblyReference.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.AssemblyInfoInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.AssemblyInfo.cs
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.csproj.CoreCompileInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ref\ExercicioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioForEach\obj\Debug\net5.0\ExercicioForEach.genruntimeconfig.cache

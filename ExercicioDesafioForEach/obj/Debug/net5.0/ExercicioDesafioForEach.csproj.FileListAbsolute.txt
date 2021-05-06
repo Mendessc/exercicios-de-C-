@@ -1,0 +1,16 @@
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ExercicioDesafioForEach.exe
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ExercicioDesafioForEach.deps.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ExercicioDesafioForEach.runtimeconfig.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ExercicioDesafioForEach.runtimeconfig.dev.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ExercicioDesafioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ref\ExercicioDesafioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\bin\Debug\net5.0\ExercicioDesafioForEach.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.csprojAssemblyReference.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.AssemblyInfoInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.AssemblyInfo.cs
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.csproj.CoreCompileInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ref\ExercicioDesafioForEach.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioDesafioForEach\obj\Debug\net5.0\ExercicioDesafioForEach.genruntimeconfig.cache
