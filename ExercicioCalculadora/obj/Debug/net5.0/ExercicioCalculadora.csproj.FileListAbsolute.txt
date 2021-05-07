@@ -1,0 +1,16 @@
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.csprojAssemblyReference.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.AssemblyInfoInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.AssemblyInfo.cs
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ExercicioCalculadora.exe
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ExercicioCalculadora.deps.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ExercicioCalculadora.runtimeconfig.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ExercicioCalculadora.runtimeconfig.dev.json
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ExercicioCalculadora.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ref\ExercicioCalculadora.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\bin\Debug\net5.0\ExercicioCalculadora.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ref\ExercicioCalculadora.dll
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.pdb
+C:\Users\caiom\OneDrive\Área de Trabalho\backend\ExercicioCalculadora\obj\Debug\net5.0\ExercicioCalculadora.genruntimeconfig.cache
